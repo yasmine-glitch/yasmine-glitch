@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yasmine-glitch
+- 👋 Hi, I’m Yasmine Berrada
 - 👀 I’m interested in poetry, stories and art
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Ruby on Rails at Le Wagon Paris
 - 💞️ I’m looking to collaborate on projects related to the arts and entertainment
 - 📫 Reach me on my email yasmineberrada91@gmail.com
 
